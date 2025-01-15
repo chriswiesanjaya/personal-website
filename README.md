@@ -9,6 +9,8 @@ npm start
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 
-## Sources
+## References
 
-[Scrimba: Learn HTML and CSS](https://scrimba.com/learn-html-and-css-c0p)
+Deployed Website: https://chriswiesanjaya-personal-website.netlify.app/
+
+Tutorial: [Scrimba: Learn HTML and CSS](https://scrimba.com/learn-html-and-css-c0p)
